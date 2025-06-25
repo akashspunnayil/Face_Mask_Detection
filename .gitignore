@@ -1,0 +1,11 @@
+.env
+.ipynb_checkpoints/
+misc/
+recordings/
+archive/
+archive.zip
+mask_video2.mp4
+tes_image.jpg
+test_faceamask.jpg
+test_facemask_2.jpg
+mask_video2.mp4
