@@ -6,7 +6,7 @@ conda activate yolo310
 pip install --upgrade pip
 
 # Reinstall your packages
-
+sudo apt install -y libgl1 libglib2.0-0 libsm6 libxrender1 libxext6 ffmpeg
 pip install streamlit==1.28.2 opencv-python-headless==4.11.0.86 pillow==9.5.0 numpy==1.26.4
 
 
