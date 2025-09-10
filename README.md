@@ -1,6 +1,6 @@
 # Face Mask Detection (YOLO-based Streamlit App)
 
-[View App](https://facemask-app.streamlit.app/)
+[View App](https://facemask-detection.streamlit.app/)
 
 This app performs face mask detection using a YOLOv8 model trained to detect masks. It supports image, video, and webcam inputs via a Streamlit interface.
 
