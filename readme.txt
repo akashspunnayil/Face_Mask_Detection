@@ -3,7 +3,13 @@
 conda create -n yolo310 python=3.10 -y
 conda activate yolo310
 
+pip install --upgrade pip
+
 # Reinstall your packages
+
+pip install streamlit==1.28.2 opencv-python-headless==4.11.0.86 pillow==9.5.0 numpy==1.26.4
+
+
 pip install streamlit ultralytics opencv-python-headless numpy pillow
 pip install torch torchvision
 
